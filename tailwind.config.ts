@@ -94,8 +94,8 @@ export default {
 				'slide-up': 'slideUp 0.4s ease forwards',
 			},
 			fontFamily: {
-				sans: ['Golos Text', 'sans-serif'],
-				ibm: ['IBM Plex Sans', 'sans-serif'],
+				sans: ['Nunito', 'sans-serif'],
+				caveat: ['Caveat', 'cursive'],
 			}
 		}
 	},
